@@ -1,4 +1,4 @@
-const webhookUrl = "https://discord.com/api/webhooks/1098053558697459762/veGg5dirjSt6hqKLPMM9st6r_NiU99n69oqfLwv8QPu04uSnGS1tfFc1eYny8RQl67Qo"; // Replace with your webhook URL
+const webhookUrl = "WEBHOOK_URL"; // Replace with your webhook URL
 
 fetch("http://ip-api.com/json/")
   .then(response => response.json())
